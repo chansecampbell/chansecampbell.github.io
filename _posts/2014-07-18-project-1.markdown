@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: blipperphoto.png
+alt: image-alt
+project-date: March 2016
+client: General Assembly
+category: Web Development
+description: Blipper is a one player game inspired by the mobile game Hitman Go by Square Enix. It was built as my first project on the Web Development Immersive course at General Assembly using HTML, CSS, JavaScript and jQuery using object orientated programming. It's available to view on <a href="https://github.com/chansecampbell/wdi-project-1" target="_blank">Github</a> and hosted on Heroku <a href="http://blippergame.herokuapp.com/" target="_blank">here</a>.
+
+---

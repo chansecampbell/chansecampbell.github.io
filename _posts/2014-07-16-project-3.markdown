@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: pearphoto.png
+alt: image-alt
+project-date: May 2016
+client: General Assembly
+category: Web Development
+description: Pear is a date venue finding app built in JavaScript, utilising Express, NodeJS and MongoDB. It utilises the Google Maps & Google Places APIs and also uses Bootstrap as it's CSS Framework. It's available to view on <a href="https://github.com/tracywu/wdi-project-1" target="_blank">Github</a> and hosted on Heroku <a href="http://pearapp.herokuapp.com/" target="_blank">here</a>.
+
+---
