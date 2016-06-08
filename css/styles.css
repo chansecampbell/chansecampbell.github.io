@@ -316,7 +316,7 @@ i {
 
   .logo img {
     display: block;
-    max-width: 50%;
+    max-width: 30%;
     margin: 4rem auto 0;
   }
 }
@@ -328,7 +328,7 @@ i {
   }
 
   .logo img {
-    max-width: 50%;
+    max-width: 30%;
   }
 
   i {
