@@ -291,6 +291,7 @@ i {
   display: inline-block;
   width: 15%;
   padding: 10px;
+  margin-left: 25px;
   text-align: center;
 }
 
@@ -304,7 +305,16 @@ i {
   }
 
   .code-icons li {
-    width: 15%;
+    width: 17%;
     text-align: center;
+  }
+
+  .nav-text {
+    display: none;
+  }
+
+  span.fa {
+    font-size: 3em;
+    padding-right: 5px;
   }
 }
