@@ -4,7 +4,7 @@ title: Blog
 ---
  
 <section class="content">
-  <h3>{{ site.posts.first.title }} - {{ site.posts.first.date }}</h3>
+  <span>Latest Post: <strong>{{ site.posts.first.title }}</strong> [ {{ site.posts.first.date | date: '%B %d, %Y' }} ]</span>
   <p>
     {{ site.posts.first.content }}
 
