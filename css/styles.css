@@ -258,8 +258,40 @@ video {
   }
 }
 
+i {
+  font-size: 4em;
+/*  text-align: center;
+*/}
+
+/*.iconpic {
+  padding: 20px;
+}*/
+
+.code-icons {
+  list-style: none;
+  float: left;
+  padding: 0;
+  margin: 0;
+}
+
+.code-icons li {
+  display: inline-block;
+  width: 15%;
+  padding: 10px;
+  text-align: center;
+}
+
 @media screen and (max-width: 33.125rem) {
   .logo img {
     max-width: 60%;
+  }
+
+  i {
+    font-size: 3em;
+  }
+
+  .code-icons li {
+    width: 15%;
+    text-align: center;
   }
 }
