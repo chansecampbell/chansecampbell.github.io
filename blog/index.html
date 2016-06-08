@@ -1,13 +1,18 @@
 ---
 layout: post
-title: Projects
+title: Blog
 ---
  
-<section class="content"> 
-  <p>Check out my images below!</p>
+<section class="content">
+  <h3>{{ site.posts.first.title }} - {{ site.posts.first.date }}</h3>
+  <p>
+    {{ site.posts.first.content }}
+
+  </p>
 </section>
  
-<!-- <ul class="entries">
+<section> 
+<ul class="entries">
   {% for post in site.posts %}
  
   <li>
@@ -18,4 +23,5 @@ title: Projects
   </li>
  
   {% endfor %}
-</ul> -->
+</ul>
+</section>
