@@ -82,9 +82,8 @@ text-align: center;
   max-width: 700px;
 }
 
-.post-link {
+/*.post-link {
   display: block;
-/*  max-width: 400px; */
   padding: 20px 30px;
   margin-bottom: 10px;
   border: 2px dotted red;
@@ -127,7 +126,7 @@ text-align: center;
 .post-link:nth-child(4n+3):hover {
   background: magenta;
   color: white;
-}
+}*/
 
 .post-body {
   line-height: 1.3em;
@@ -140,7 +139,7 @@ text-align: center;
   margin-bottom: 10px;
 }
 
-.post-body a:nth-of-type(4n) {
+/*.post-body a:nth-of-type(4n) {
   color: red;
 }
 
@@ -155,7 +154,7 @@ text-align: center;
 .post-body a:nth-of-type(4n+3) {
   color: green;
 }
-
+*/
 blockquote {
   font-size: 1.2em;
   font-style: italic;
@@ -198,7 +197,7 @@ video {
   background-size: 100% 100%;
 }
 
-.icon.doc {
+/*.icon.doc {
   background-image:url(../img/doc.png);
 }
 
@@ -220,7 +219,7 @@ video {
 
 .icon.github {
   background-image:url(../img/github.png);
-}
+}*/
 
 .nav a {
   margin-right: 32px;
@@ -236,10 +235,6 @@ video {
 
 .nav a:hover {
   text-decoration: underline;
-}
-
-.project-link {
-  text-decoration: none;
 }
 
 i {
@@ -260,6 +255,18 @@ i {
   padding: 10px;
   margin-left: 25px;
   text-align: center;
+}
+
+.portfolio-content {
+  list-style-type: none;
+  text-align: center;
+}
+
+a.project-link {
+  text-decoration: none;
+  color: #71d9ff;
+  background-color: #393939;
+  padding: 5px;
 }
 
 @media screen and (max-width: 57.25rem) {
@@ -321,9 +328,6 @@ i {
     margin: 4rem auto 0;
   }
 
-/*  .header-name {
-    font-size: 22px;
-  }*/
 }
 
 @media screen and (max-width: 33.125rem) {
