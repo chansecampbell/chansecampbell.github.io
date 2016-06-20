@@ -20,7 +20,7 @@ title: Blog
   <li>
     <a href="{{ post.url }}">
       <img src="{{ post.image }}" />
-      <h3>{{ post.title }}</h3>
+      <span>{{ post.title }} [ {{ post.date | date: '%B %d, %Y' }} ]</span>
     </a>
   </li>
  
