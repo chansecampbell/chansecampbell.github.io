@@ -6,24 +6,27 @@ title: Blog
 <h1 class="header-name">{{ page.title }}</h1>
  
 <section class="content">
-  <span>Latest Post: <strong>{{ site.posts.first.title }}</strong> [ {{ site.posts.first.date | date: '%B %d, %Y' }} ]</span>
-  <p>
+<!--   <span>Latest Post: <strong>{{ site.posts.first.title }}</strong> [ {{ site.posts.first.date | date: '%B %d, %Y' }} ]</span>
+  <br> -->
     {{ site.posts.first.content }}
-
-  </p>
+  <br>
 </section>
+
+<br>
+<hr>
+<br>
  
 <section> 
+<h1 class="header-name">Archive Blog Posts</h1>
 <ul class="entries">
   {% for post in site.posts %}
  
   <li>
     <a href="{{ post.url }}">
-      <img src="{{ post.image }}" />
-      <span>{{ post.title }} [ {{ post.date | date: '%B %d, %Y' }} ]</span>
+      <strong>{{ post.date | date: '%B %d, %Y' }}</strong>: <span>{{ post.title }}</span>
     </a>
   </li>
- 
+  <hr>
   {% endfor %}
 </ul>
 </section>

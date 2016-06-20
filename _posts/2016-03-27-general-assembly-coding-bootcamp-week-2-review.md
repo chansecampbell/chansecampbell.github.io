@@ -3,7 +3,7 @@ layout: default
 title: General Assembly Coding Bootcamp Week 2 Review
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 Happy Easter! I'm writing this at the end of my second week down at <strong>General Assembly</strong>, with ten more to go on the <strong>WDI</strong> course that aims to get people who know very little to job ready as <strong>Junior Web Developers</strong> within just <strong>12 weeks</strong>. This week has been an interesting one as we've all started to get into a bit of a working rhythm, and people have definitely been able to begin to understand the actual commitment that the course will require if you want it to be a beneficial experience. Here's a run through of week 2 - lets go!
 

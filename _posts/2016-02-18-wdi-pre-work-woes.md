@@ -3,7 +3,7 @@ layout: default
 title: WDI pre-work woes
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 Over the last few days I've continued to work on the WDI Fundamentals pre-work set by GA in preparation for the course next month. Whilst parts of the Javascript have quickly felt like second nature (variables, if/else statements), a lot of things have surprisingly thrown me off at times as I've continued to work on the final fundamentals project.
 

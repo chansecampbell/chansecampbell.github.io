@@ -3,7 +3,7 @@ layout: default
 title: Learning basic HTML and CSS with Treehouse
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 OK, so with my plane touching down in Manchester Airport some 47 hours previous and fresh from my end of exam trip to Thailand, I finally sit down ready to get on to Treehouse still dazed with jet lag and armed with a cup of tea. After initially completing the 'How to Make a Website' section of the Web Design track as a small taster back in early June, I felt confidently ready to tackle some more HTML and CSS learning. I have to say however that straight off the bat I was mildly disappointed by the underwhelming pace in which the HTML and CSS foundations modules moved at in comparison with what I'd covered previously. By no means do I mistake myself as anything but a coding newbie but I couldn't help shake the feeling of boredom when having to learning basic steps such as how to link a page yet again. Attempting to put my cynical thoughts aside and focus on the positives that this reinforcement of knowledge may have upon my temperamental memory, I soldiered on with the Web Design track.
 

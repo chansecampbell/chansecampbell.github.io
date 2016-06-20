@@ -3,7 +3,7 @@ layout: default
 title: 2016 - The year of big change
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 Happy 2016 :) I've officially completed my first year of working full time after graduating from University as I've learned lots of crucial life lessons in the process. I can't explain how excited I am for the things to come this year - beginning with my (re-)enrolment on the WDI course at General Assembly in London beginning March 14th.
 

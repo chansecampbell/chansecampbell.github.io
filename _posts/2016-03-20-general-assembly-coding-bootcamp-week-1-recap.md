@@ -3,7 +3,7 @@ layout: default
 title: General Assembly Coding Bootcamp Week 1 Review
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 What a difference a week can make! I've just completed my first week in London at General Assembly on the Web Development Immersive programme and it's definitely been one to remember. Having moved down with the help of my stepdad a week ago on Saturday, I had roughly two days to settle in to life in London before the hard work actually begun. I opted to not burn out before the course had even started and so spent that time exploring, doing a bit of painting and enjoying the final minutes of actual downtime.
 

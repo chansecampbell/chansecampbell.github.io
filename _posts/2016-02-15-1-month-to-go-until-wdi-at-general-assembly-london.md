@@ -3,7 +3,7 @@ layout: default
 title: 1 month to go until WDI at General Assembly London
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 Today marks the countdown. It's now exactly 4 weeks until I begin on the March 2016 cohort at General Assembly in London. As I've stated in previous posts this has been a long time coming but finally things are starting to become real. Last week we were shared into the necessary pre-work that all WDI students are required to complete prior to the start of our coding journeys next month. As I briefly enrolled last year I was aware of the impending work and so it's definitely been something that I've been anticipating since around Christmas time when I firmly confirmed my place.
 

@@ -3,7 +3,7 @@ layout: default
 title: Coding Bootcamps &amp; Javascript Beginnings
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 So the last time I did a post was over a month ago and that was mainly due to the fact that I've been working like a mad man with two different jobs. I've basically been trying to save as much money as I can from September through until now and I don't see myself easing up anytime soon. The main reason for that is that I recently finally got around to applying for a coding bootcamp in London after months and months of careful consideration. After a week or two of the application process with General Assembly LDN I'm finally confirmed for the March 2015 cohort and things are getting pretty exciting! If your reading this back for the first time you would be excused for feeling slightly confused that my posts have gone from "Learning to build a basic website" to coding bootcamps but it's actually something I've been researching since the end of August.
 

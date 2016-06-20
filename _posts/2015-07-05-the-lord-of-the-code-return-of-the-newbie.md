@@ -3,7 +3,7 @@ layout: default
 title: The Lord of the Code - Return of the Newbie
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 I'm backkk! OK, so obviously my original plans didn't happen as you can probably tell from this 5 month interval. After accepting my place at General Assembly for their March 2015 cohort I actually got a job offer that I couldn't refuse from my place of part time work. As a graduate fresh out of university it was an amazing opportunity to take on responsibilities that I never imagined I'd be given at 23. The job itself still allows me to dabble within the world of tech and innovation, working as a national trainer through my marketing company for a large tech company. It's going great and I feel really proud of what I'm achieving just a year out of education and so I'm not going to go off topic with personal life chat as this was never the point of my blog. In short, over the past few months, despite all the work I've begun to think once again about what got me into coding this time last year and the reasons I decided that I wanted to pursue a career as a web developer in the first place.
 

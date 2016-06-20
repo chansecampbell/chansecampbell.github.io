@@ -3,7 +3,7 @@ layout: default
 title: Playing around with Codepen
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 As I've begun to now experiment with different ways in which to learn with HTML and CSS I've found that applying concepts and theories learnt within Codepen invaluable. I've not made anything worth shouting about, but being able to translate my notes into direct results is immensely rewarding and something I feel I can build upon and notice progression with. Because of it's usefulness thus far I'm now going to soon go back and build things with previous lessons as a bit of a refresher.
 

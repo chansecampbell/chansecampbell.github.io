@@ -3,7 +3,7 @@ layout: default
 title: Finishing the WDI pre-work
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 As I type this I've literally just submitted my final pre-work to General Assembly for it's marking prior to me starting the WDI course in under two weeks time. There were definitely some highs and some lows during the work, in particular a few checkerboard exercises during the Arrays chapters that had me stumped for much longer than I would like to admit, but ultimately I made it through with a little help from Slack and my fellow GA students!
 

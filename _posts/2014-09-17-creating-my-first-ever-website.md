@@ -3,7 +3,7 @@ layout: default
 title: Creating my first ever website
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 So we're over half way through September and the time has finally come.... I've started working on creating my first ever website. To be quite honest, I never really saw myself creating anything that would ever be seen publicly, given that I only truly started taking my course with Treehouse some 7 weeks ago. The opportunity came about partly as a family favour and party due to the fact that I've just reached the end of CSS foundations and layout techniques on Treehouse and surprisingly felt ready to tackle something outside of my fairly tragic Codepen experiments.
 

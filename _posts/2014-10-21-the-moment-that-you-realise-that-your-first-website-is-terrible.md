@@ -3,7 +3,7 @@ layout: default
 title: The moment that you realise that your first website is terrible
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 So it's official. My first attempt at a website, after several drawn out months of learning HTML and CSS with Treehouse was in fact bloody terrible. Don't get me wrong, I didn't for a second think that I could produce anything amazing but I have to admit that I was a little disappointed with the final result. I think the major learnings coming out of this first attempt are as follows:
 

@@ -3,7 +3,7 @@ layout: default
 title: The highs and lows of creating my first ever ecommerce site
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 So after a long stint of being on hiatus I finally decided that the perfect project to get me back into the beginnings of coding would be to help set up my Mum's business with an ecommerce site. Using Wordpress as my framework, it would be soooo easy. Right..?! Wrong!
 

@@ -3,7 +3,7 @@ layout: default
 title: It's officially been a year since I first started learning to code &amp; this is what I've learned so far
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 It's official. A year and a day ago today I actually first started to code with the help of Treehouse after arriving back from my month long holiday in Thailand. It's kind of bizarre to think how much has changed in some ways and in others how very little. For example, in just a short few months I'd taught myself how to fully create a beautiful looking fake website purely out of HTML and CSS, helping me to feel that I was definitely on my way to cracking front end web development. Shortly afterwards I'd begun to look at both Javascript &amp; Ruby on Rails and I'd found that my interest in coding had begun to go to the next level.
 <br>

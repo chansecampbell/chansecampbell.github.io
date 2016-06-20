@@ -3,7 +3,7 @@ layout: default
 title: General Assembly Coding Bootcamp Week 4 Review
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 So I really slacked this week in terms of writing lots of notes for this blog post, but at least I've still managed to write it! Week 4 is officially <strong>done</strong> at GA in London and the pace is as relentless as ever, here's the review from the fastest week yet.
 

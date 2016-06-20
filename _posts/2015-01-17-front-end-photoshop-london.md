@@ -3,7 +3,7 @@ layout: default
 title: Front-end, Photoshop &amp; Macbook Upgrades
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 Merry belated Christmas! So it's been a while since my last post and I've been busy and not-so-busy doing loads of different things. In my last update I talked about being accepted onto the March 2015 WDI course at General Assembly. I'm now a month and a half away from starting my 12 week course and still very excited about the lifestyle change as the start gets ever-closer.
 

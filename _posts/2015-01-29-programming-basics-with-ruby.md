@@ -3,7 +3,7 @@ layout: default
 title: Programming Basics with Ruby
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 So I'm currently working my way through General Assembly's pre-work that was recently updated and resent out to me to try and tackle. I have to say that I'm enjoying tackling the challenges set to me in terms of creating simple programmes in Ruby, but it's took me a little while to work through 'bugs' on more than one occasion. For example, doing the classic 'Fizzbuzz' programming challenge, I couldn't figure out for a small while how to make the 'Fizzbuzz' string pop up instead of 'Fizz' and 'Buzz' on a word that was both a multiple of 3 &amp; 5. In the end I managed to get it working with the following code.
 

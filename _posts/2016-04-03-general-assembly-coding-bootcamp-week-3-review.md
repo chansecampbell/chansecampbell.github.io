@@ -3,7 +3,7 @@ layout: default
 title: General Assembly Coding Bootcamp Week 3 Review
 ---
 <h1 class="header-name">{{ page.title }}</h1>
-<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+<h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
 Another week has <em>already</em> been and gone! I can't believe how quickly it's flying by here in London but we are definitely learning a hell of a lot in a very short amount of time. Here's my run through of week <strong>3</strong>/12 on the <strong>web development immersive</strong> course at <strong>General Assembly</strong> in London! 
 
