@@ -1,0 +1,12 @@
+---
+layout: default
+title: The Lord of the Code - Return of the Newbie
+---
+<h1 class="header-name">{{ page.title }}</h1>
+<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+
+I'm backkk! OK, so obviously my original plans didn't happen as you can probably tell from this 5 month interval. After accepting my place at General Assembly for their March 2015 cohort I actually got a job offer that I couldn't refuse from my place of part time work. As a graduate fresh out of university it was an amazing opportunity to take on responsibilities that I never imagined I'd be given at 23. The job itself still allows me to dabble within the world of tech and innovation, working as a national trainer through my marketing company for a large tech company. It's going great and I feel really proud of what I'm achieving just a year out of education and so I'm not going to go off topic with personal life chat as this was never the point of my blog. In short, over the past few months, despite all the work I've begun to think once again about what got me into coding this time last year and the reasons I decided that I wanted to pursue a career as a web developer in the first place.
+
+I loved the introduction to something that within a few months was empowering me to physically build mock websites constructed of HTML and CSS that I had planned and designed myself. The feeling was addictive and awe-inspiring, as was the thought of one day cracking a back-end dev language like Ruby that could introduce so many cool and powerful creative opportunities if I just had the grit to learn it.
+
+So starting earlier this week I signed up to Codeacademy, deciding to take a slightly different path from what I walked with Treehouse. So far I'm cracking on with some Javascript and it's great. For now I'm starting small, trying to learn something new everyday and seeing where the next few months take me. I'd love to eventually crack a language that can complement the HTML &amp; CSS that I know already so that I can start building basic web applications with real world uses. I have no idea how my job and other opportunities may pan out moving through the second half of 2015 but as for whether or not I'll resign up for a coding bootcamp once again in London in the future.. Well, you can never say never.

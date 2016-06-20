@@ -1,0 +1,16 @@
+---
+layout: default
+title: The highs and lows of creating my first ever ecommerce site
+---
+<h1 class="header-name">{{ page.title }}</h1>
+<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+
+So after a long stint of being on hiatus I finally decided that the perfect project to get me back into the beginnings of coding would be to help set up my Mum's business with an ecommerce site. Using Wordpress as my framework, it would be soooo easy. Right..?! Wrong!
+
+Now I'm not trying to say that making a ecommerce website using Wordpress is a bad idea, on the contrary it's probably one of the most manageable and affordable solutions for anyone out there looking to start their own online shop. However with that said, I completely mis-underestimated the amount of features and tweaks I would need to add to get the desired look and feel that I set out to achieve. Being a bit of a perfectionist and often setting very high expectations of myself, I've found myself often tearing my hair out over the course of this past month as I've tried and failed to add different elements to the website multiple times. Issues have included but are not limited to the following: struggling with image blurring and size issues, struggling with mobile vs desktop designs, struggling to edit what I needed to within the php files (resulting in 3 occasions where the entire site locked me out) and currently struggling to streamline my site to a point where the page speed will get to a decent place.
+
+The general concept of using Wordpress' Woocommerce feature to create an online store is a brilliant one. It automatically creates sections for products and shipping, taking lots of the pressure off of the user by just putting in the bare bones of what is needed for a shop right off the bat. The problems arise however when you start to want to see more fancy features on a webpage and they perhaps aren't 100% compatible with each other or perhaps even your chosen theme. What you end up with is a combination of features slotted together in a tower that I can only compare to a website built with different sized Jenga bricks.
+
+I have to admit though that the challenge has been at times outright frustrating, but the end results are now proving to be well worth my while. I've managed to put together a website that allows the user to shop by category, view a detailed about page, use contact forms that email my Mum's business directly, view a drop down FAQs table for common queries and even scroll through Facebook and a Google Map widget on the site itself. The best part about all of this is it's even working great on mobile phones too.
+
+With my final challenge being that I need to streamline the site somewhat to up the page speed before we finally open my mum and her business partner are already very happy to finally have a platform that represents the look and feel of their actual shop without having to use Ebay any longer. Of course it also helped that this cost them absolutely nothing (lucky me!). I'm happy myself that this project has got me back into the game in preparation for the WDI but I'm secretly already excited to learn, learn, learn so I can give the entire website a revamp in a couple of months time - but let's just hope that the Jenga tower stays standing in the meantime :)

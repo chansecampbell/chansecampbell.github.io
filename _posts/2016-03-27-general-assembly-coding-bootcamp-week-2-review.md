@@ -1,0 +1,88 @@
+---
+layout: default
+title: General Assembly Coding Bootcamp Week 2 Review
+---
+<h1 class="header-name">{{ page.title }}</h1>
+<h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
+
+Happy Easter! I'm writing this at the end of my second week down at <strong>General Assembly</strong>, with ten more to go on the <strong>WDI</strong> course that aims to get people who know very little to job ready as <strong>Junior Web Developers</strong> within just <strong>12 weeks</strong>. This week has been an interesting one as we've all started to get into a bit of a working rhythm, and people have definitely been able to begin to understand the actual commitment that the course will require if you want it to be a beneficial experience. Here's a run through of week 2 - lets go!
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/typing.gif" rel="attachment wp-att-288"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/typing.gif" alt="typing" width="533" height="300" class="aligncenter size-full wp-image-288" /></a>
+
+<h1>Week 2 - Day 6 - Monday</h1>
+This week started off by doing a homework review of everyone's weekend homework, the naughts and crosses game. This ended up taking up nearly the entire morning as Alex hammered in the concept of functions within functions</strong> and how click events worked along side them. By the end of the session most of us felt we had a clearer understanding of how we could have wrote the game a little bit cleaner and were pretty keen to tidy our code up (if we actually had the time!). The rest of the day was spent looking at <strong>Objects</strong> and their vast use cases within JavaScript.
+
+I was feeling really positive about the day and felt like I had a good understanding of Functions and Objects until the homework - we were tasked with making a <strong>Daft Punk soundboard</strong>. The TA's Caroline and Ollie spoke about how this was a favourite homework and so when it came time to crack on at 5pm I found myself stuck after a promising start in which I linked one sound to one button. Alex helpfully showed me the (in the end annoyingly simple) way to loop through them all using a click event listener and string concatenation. I did some CSS styling to compensate but couldn't help but leave feeling frustrated that I didn't quite get it myself today. I left around 9pm.
+
+Mood: <strong>Grumpy.</strong>
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/daftpunk.png" rel="attachment wp-att-270"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/daftpunk.png?w=696" alt="daftpunk" width="696" height="381" class="aligncenter size-large wp-image-270" /></a>
+
+<h1>Week 2 - Day 7 - Tuesday</h1>
+Today I woke up feeling a little bit brighter after getting myself in a grump with last nights homework. We reviewed the Daft Punk sound board and I ended up demoing mine and was particulary proud of the colour changing buttons (thanks Caroline!). We then dived straight into some new topics, first thing on the agenda was looking at what <strong>"this"</strong> actually was. Now, for those of you who've not yet begun to code... "This" is... Well, nobody actually really knows.
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/confusedchan.jpg" rel="attachment wp-att-264"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/confusedchan.jpg" alt="confusedchan" width="285" height="175" class="aligncenter size-full wp-image-264" /></a>
+
+It's supposed to be a keyword used within JavaScript to refer to a parent element but using it throughout your code it can often change what it references depending on click events and other interferences. But to be completely honest, after following the trail of 'this' down a couple of rabbit holes during an in-class pairs lab the majority of us were a little lost to say the least. Another massive topic today was the application of objects and in particular making code <strong>object-orientated</strong>, meaning that an entire game such as naughts and crosses could be created inside one clean and organised object. Although this didn't seem to be the quickest solution, we were told that once working on bigger projects this would be an invaluable way of working. I actually managed to turn my Daft Punk soundboard into an object in the final lab of the day and couldn't help but feel a bit proud..
+
+The homework was the build <strong>Rock, Paper, Scissors</strong> from scratch, something we did in the pre work but then in a very basic way and along with a lot of starter code to help. We would now be using the DOM and Javascript to help us manipulate our HTML and CSS styling, meaning that we could create the logic in JavaScript and then link it to the HTML elements to give it an interface. <em>Challenge accepted!</em> I opted to work in a pair for this evenings lab with one of the other guys in class and we decided to take a new approach, writing the games instructions from scratch in <strong>pseudo code</strong> cutting no corners. It definitely took a while to plan and a while longer to finish coding the game but the plan worked hugely, acting like a step-by-step instruction manual. On a high after succeeding and even having the entire game constructed in object orientated code, I <em>couldn't</em> resist staying to style it up and ended up leaving at 9:50pm! <em>(Why!?!)</em>. I went home feeling happy, it feels like it's sinking in today.
+
+Mood: <strong>Smug.</strong>
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/rps.png" rel="attachment wp-att-273"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/rps.png?w=696" alt="rps" width="696" height="381" class="aligncenter size-large wp-image-273" /></a>
+
+<h1>Week 2 - Day 8 - Wednesday</h1>
+Today is the day that most people including myself came <em>crashing</em> back down to reality. There I was, still on my JavaScript high, floating into Second Home for the 9am start. We started off by doing a homework review and then as a group rewriting the RPS game in a different way to hammer it in. This was really helpful especially as most of us had no idea how to get <strong>if/else statements</strong> to work a little bit cleaner, although I definitely still need more practice there. Immediately afterwards we had our second <strong>outcomes meeting</strong>, this time with Sam who had helped me quite a few times before starting at GA by giving me some friendly advice. One of the nicest things I appreciate about GA is definitely the staff, who are all warm and easy to talk to (something I didn't find to be 100% true of another similar coding school in London). We found out a bit more about the Junior Developer job progression, expected salaries and alternative roles if you later decide that perhaps working as a Junior Dev isn't quite for you. It's both exciting and daunting to look beyond the end of week 12 at this early point, everything is too soon to call but I'm definitely currently in the mindset of being a <strong>Junior Developer</strong> when I leave.
+
+Then the pain came. The rest of the day was spent being introduced to a new friend, <em>Mr Jake Weary</em> aka the JavaScript shorthand library <strong>jQuery</strong>.
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/jakeweary.jpg" rel="attachment wp-att-266"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/jakeweary.jpg" alt="jakeweary" width="502" height="234" class="aligncenter size-full wp-image-266" /></a>
+
+Now, as a JavaScript library, jQuery was created to make the task of writing multiple long lines of ridiculous JavaScript code much more simple and I can appreciate that. But as a newbie starting out, the feeling that I had <em>finally</em> begun to understand JavaScript came crashing down the second we started looking at jQuery. The feeling was thankfully shared amongst most of the class as the shorter commands seemed confusing and just appeared to be a sea of endless <strong>$$$$()$($)$($)($</strong> symbols. However I can appreciate that learning new languages and shortcuts is part of the package if you want to be a Developer in a world where languages are <em>always</em> going to change and so I took the bull by the horns and cracked on with it.
+
+The homework for the night was to essentially use jQuery to get an array of 50 fake tweets onto a <strong>fake twitter stream</strong> and then also find a way to get the user to be able to input a tweet and post it to the same stream. When the clocked struck 5pm we had a short break before the evenings homework and their was a general consensus amongst most of our class - <em>"what the fuck do we do here?"</em>.
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/no-idea.gif" rel="attachment wp-att-275"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/no-idea.gif" alt="no idea" width="480" height="270" class="aligncenter size-full wp-image-275" /></a>
+
+Eventually we figured it out together by esentially piecing the jigsaw (along with much needed help from Caroline!). In the end we had completed most (but for the first time not all of) the homework. My biggest win was that I managed to move the jQuery content into objects as a little added bonus - a good end to the night considering that I'm not yet comfortable with the transition to the short hand JavaScript we've been introduce to today. 
+
+Mood: <strong>Lost.</strong>
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/twitterjquery.png" rel="attachment wp-att-274"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/twitterjquery.png?w=696" alt="twitterjquery" width="696" height="382" class="aligncenter size-large wp-image-274" /></a>
+
+<h1>Week 2 - Day 9 - Thursday</h1>
+Today was the day of food and projects. After starting the day with a homework review in which we reflected upon a few more simple ways to tackle the jQuery homework that I don't think any of us still fully understood, we found out that unfortunately one of the girls on the course had dropped out of <strong>WDI</strong> after deciding the course wasn't for her. It's definitely really unfortunate but makes sense if the style of learning and content isn't for you. It also served the rest of us a reminder of how <em>gruelling</em> and <em>challenging</em> this course actually is on your daily lives, with most of our time spent feeling lost and confused (with momentary spouts of <strong>eureka</strong> discoveries over the most trivial of things).
+
+We then had a look at the usefulness of <strong>testing frameworks</strong>, although we wouldn't be using them right now in the course (basically you write some code to test some code), but I could definitely see it's usefulness once you know what your doing. We also learned how to use <strong>Heroku</strong> as a platform to deploy our projects to so that they can be viewed by anybody very easily (watch this space as I'll be sharing them soon). After a few surprise treats, first vegan brownies and then hot cross buns (this was directly after dinner so I was ready to burst at this point) it was time to start working on our first ever <strong>solo project</strong>!
+
+We were told by Alex that for our first project we were tasking with coming up with an idea and then <strong>building our own game in jQuery</strong> from the ground up without instructions. The general feeling in the room was a mixture of excitement, anticipation and pure fear. I sat somewhere in the middle. At first I was a <em>little bit</em> too ambitious, opting to hopefully design an 8bit arcade style game like Mario. After going away and watching a few tutorials at my desk though, I realised that what I ought to be doing was combining two weeks worth of knowledge into something to cement it rather than tackling new concepts that this game required.
+
+By the end of the day most people had started cracking on with their concepts and I had loosely decided on a zombie game that would be built in a grid with the aim of either fighting the zombies and loosing and life, or avoiding them to get to the other side. We all stuck around and worked on project ideas until around 6:30/7pm at which point me and a few of the other guys went to a meet-up run by our course instructor Alex and had a few beers.
+
+Mood: <strong>Unsure.</strong> 
+
+<h1>Week 2 - Day 10 - Friday</h1> 
+Projects project projects. After our weekly team breakfast at Canteen in <em>Spitalfields Markets</em> we headed over to Second Home for 10am. As it was a bank holiday the rest of the building was dead, with everyone off work on a public holiday. We therefore started the day by nicking as many good chairs as we could from around the building in the communal area and swapping them with our least favourite ones (SH has this weird thing where they don't have any two chairs the same in the entire place). After the chair swapping madness, it was time to crack on with projects once again. It was weird as for once none of us could really help each other as we were all beginning to tackle slightly different problems. After some initial guidance I realised that my 8bit zombie grid game wasn't the best idea either and so Alex sat down and helped me get a bit more direction.  Our end decision was to make a game similar to <strong>Hitman Go</strong> in which you've got to make it undetected across the board as enemies look different ways in an attempt to catch you. If you're unfamiliar with it, it looks a bit like this:
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/hitmango.png" rel="attachment wp-att-267"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/hitmango.png" alt="hitmango" width="660" height="320" class="aligncenter size-full wp-image-267" /></a>
+
+The plan was to emulate the games logic in that the player would need to make it across the board without being <strong>detected</strong> by the enemies, so there is an amount of logic to the game in terms of planning where to move. I spent the first 3 hours sat trying to figure out how to move the bloody player across a grid but <em>finally</em> figured out a way to do it using class assignment. By the end of the day I had a movable player and several objects but no real rules or game elements. I've decided today that coding is hard work.
+
+We had organised drinks at a cool place called <b>Kick Bar</b> in Shoreditch on the evening with the class above to blow off a bit of steam before having a weekend of potential project hell without the instructors.
+
+Mood: <strong>Slow</strong>.
+
+<h1>Week 2 - Weekend - Saturday/Sunday</h1>
+Saturday was basically the day when I <strong>got shit done</strong>. I woke up at 6:30am randomly knowing the solution to an issue that I couldn't figure out the day before. I ran to my computer to put in a few statements that would allow for player to store values for wins in a smart way. <em>What has my life become?</em> By half ten, half of us from the class went into a cafe a few doors down from Second Home as it was closed for the public holidays. I worked steady for the entire day and got so much done! My game now has win conditions, an end point, some fancy css and even sound effects. Now I just need to make it have more than one level.. I treated myself to some takeaway food on the way home feeling exhausted and slightly hungover still from the night before. Saturday's didn't used to feel like this much hard work.
+
+And finally that brings me to today. I've not really done too much more with my game yet, although currently it works for the first level I've not been able to replicate that for a second or third. I'd also love to implement a feature that allows for my player to effectively take out the enemy if they aren't looking. I'm not going to put it up until next week when it's complete but here's a screen shot of the thing so far. It's definitely more impressive live with sound effects and the fancy CSS movements though!
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/detectiongame.png" rel="attachment wp-att-271"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/detectiongame.png?w=696" alt="detectiongame" width="696" height="379" class="aligncenter size-large wp-image-271" /></a>
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/detectiongame2.png" rel="attachment wp-att-272"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/detectiongame2.png?w=696" alt="detectiongame2" width="696" height="380" class="aligncenter size-large wp-image-272" /></a>
+
+I think all in all, this second week at GA has taught me that in the wise words of Ronan Keating - for people training to be eventual Junior Web Developers - <strong>"life is a bloody rollercoaster".</strong> <em>(Or something like that..) </em>
+
+<a href="https://thelongcodeahead.files.wordpress.com/2016/03/mrbeancoaster.gif" rel="attachment wp-att-268"><img src="https://thelongcodeahead.files.wordpress.com/2016/03/mrbeancoaster.gif" alt="mrbeancoaster" width="300" height="225" class="aligncenter size-full wp-image-268" /></a>
+
+It's pretty amusing to look back over my weeks notes and see that one day to the next I'm at my highest and then my lowest, but I think that those small momentary bursts of excitement and understanding after hours of struggle are just so worth it. <strong>Week 3 I'm coming for ya!</strong>
