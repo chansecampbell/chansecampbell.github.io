@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: default
 title: Do not read this
 ---
+
+<h1 class="header-name">{{ page.title }}</h1>
 
 Blogging is fun!
 

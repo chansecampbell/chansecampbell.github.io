@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: default
 title: Blog
 ---
+
+<h1 class="header-name">{{ page.title }}</h1>
  
 <section class="content">
   <span>Latest Post: <strong>{{ site.posts.first.title }}</strong> [ {{ site.posts.first.date | date: '%B %d, %Y' }} ]</span>

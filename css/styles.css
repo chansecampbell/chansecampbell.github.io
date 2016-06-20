@@ -82,60 +82,14 @@ text-align: center;
   max-width: 700px;
 }
 
-/*.post-link {
-  display: block;
-  padding: 20px 30px;
-  margin-bottom: 10px;
-  border: 2px dotted red;
-}
-
-.post-link:hover {
-  background: red;
-  color: white;
-  border: 2px dotted white;
-}
-
-.post-link:nth-child(4n+1) {
-  border-color: aqua;
-  border-style: outset;
-}
-
-.post-link:nth-child(4n+1):hover {
-  background: aqua;
-  color: inherit;
-  border: 2px outset white;
-}
-
-.post-link:nth-child(4n+2) {
-  border-color: yellow;
-  border-style: groove;
-}
-
-.post-link:nth-child(4n+2):hover {
-  background: yellow;
-  color: inherit;
-}
-
-.post-link:nth-child(4n+3) {
-  border-color: magenta;
-  border-style: solid;
-  border-width: 1px;
-  box-shadow: 0 0 0 1px white, 0 0 0 2px magenta;
-}
-
-.post-link:nth-child(4n+3):hover {
-  background: magenta;
-  color: white;
-}*/
-
 .post-body {
-  line-height: 1.3em;
+  /*line-height: 1.3em;*/
   max-width: 700px;
 }
 
 .post-body img {
   max-width: 100%;
-  display: block;
+  /*display: block;*/
   margin-bottom: 10px;
 }
 
@@ -267,6 +221,33 @@ a.project-link {
   color: #71d9ff;
   background-color: #393939;
   padding: 5px;
+}
+
+/* make keyframes that tell the start state and the end state of our object */
+ 
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+ 
+.fade-in {
+  opacity:0;  /* make things invisible upon start */
+  -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+ 
+  -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+ 
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+}
+ 
+.fade-in.one {
+-webkit-animation-delay: 0.5s;
+-moz-animation-delay: 0.5s;
+animation-delay: 0.5s;
 }
 
 @media screen and (max-width: 57.25rem) {

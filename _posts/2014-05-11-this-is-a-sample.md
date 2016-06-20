@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: default
 title: I think this is a smart idea
 ---
+
+<h1 class="header-name">{{ page.title }}</h1>
 
 Blogging is fun!
 
