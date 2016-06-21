@@ -2,6 +2,7 @@
 layout: default
 title: Why I decided to learn to code
 ---
+<section class="content">
 <h1 class="header-name">{{ page.title }}</h1>
 <h3 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h3>
 
@@ -14,3 +15,4 @@ But I know what intrigues me and so that brings me to this blog. Following a dec
 After some in-depth research that spanned across several days I decided upon my first port of call in my self-taught learning adventure - Treehouse, a website that teaches the basics of coding languages such as HTML, CSS, Javascript and PHP to the aspiring beginners such as myself. After a cross comparison of the different online services available it felt like the correct choice mainly because of the simplistic, slow paced videos that helpfully explain concepts and the code challenges that attempt to engrain the newly acquired knowledge within your mind.
 
 With a months holiday to Thailand booked and my bags packed I therefore had an initial two weeks in which to try out the service first hand. Unable to wait until my return to start learning I therefore followed the How to Make a Website course within the Web Design Track with Nick Petit. My resulting website, (which can be found at www.chansecampbell.com), was a fantastic thing to see for such a newbie to coding and is something that I hope to build upon as my learning experience continues within the foreseeable future with Treehouse. But for now, it's time for Thailand!
+</section>

@@ -2,31 +2,29 @@
 layout: default
 title: Blog
 ---
-
-<h1 class="header-name">{{ page.title }}</h1>
  
 <section class="content">
+<h1 class="header-name">{{ page.title }}</h1>
 <!--   <span>Latest Post: <strong>{{ site.posts.first.title }}</strong> [ {{ site.posts.first.date | date: '%B %d, %Y' }} ]</span>
   <br> -->
     {{ site.posts.first.content }}
   <br>
 </section>
 
+<!-- <section> 
 <br>
 <hr>
 <br>
- 
-<section> 
 <h1 class="header-name">Archive Blog Posts</h1>
 <ul class="entries">
   {% for post in site.posts %}
  
   <li>
-    <a href="{{ post.url }}">
+    <a href="{{ post.url }}" class="transition">
       <strong>{{ post.date | date: '%B %d, %Y' }}</strong>: <span>{{ post.title }}</span>
     </a>
   </li>
   <hr>
   {% endfor %}
 </ul>
-</section>
+</section> -->
