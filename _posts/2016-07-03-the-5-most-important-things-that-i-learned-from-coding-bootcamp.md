@@ -14,7 +14,7 @@ A month ago I finished a <strong>12 week course</strong> at <strong>General Asse
 </div>
 <hr>
 <div>
-      <h2>2. A good network of people are crucial to your learning progress</h2>
+      <h2>2. A good network of people are crucial to your learning progression</h2>
       I think most people (myself included) considered the ability to <strong>focus on coding for 12 weeks</strong> straight without distractions the most appealing thing about studying at a place like GA. However the actual cohort (both your fellow students and instructors) are probably the most <em>valuable resource</em> that you'll have throughout your bootcamp journey. Self teaching yourself to code is <strong>hard</strong> and takes <em>real</em> perserverance and a decent level of Google-foo ninja-like abilities to crack. Having a network of people that are at your level of knowledge is <strong>great</strong> - you have a second pair of eyes for when your stuck and a supportive network of enthusiasts that understand <em>how much</em> those small wins really mean.
 </div>
 <hr>
