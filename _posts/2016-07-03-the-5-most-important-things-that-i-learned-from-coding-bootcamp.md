@@ -6,7 +6,7 @@ title: The 5 most important things that I learned from coding bootcamp
 <h1 class="header-name">{{ page.title }}</h1>
 <h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
-It's officially been a month now since I finished a <strong>12 week course</strong> at <strong>General Assembly</strong> in London which aims to get you job ready as a Junior Web Developer in only 3 months. I've blogged about my experience along the way, but here are my <strong>5 most important thing's that I've learned</strong>.
+A month ago I finished a <strong>12 week course</strong> at <strong>General Assembly</strong> in London which aims to get you job ready as a Junior Web Developer in only 3 months. I've blogged about my experience along the way, but here are my <strong>5 most important thing's that I've learned</strong>.
 <hr>    
 <div> <h2>1. You can't compare yourself to others, but it's also impossible not to do it</h2>
       I heard this piece of advice before I'd even started my course and it on the surface it completely makes sense. <em>"Don't compare yourself to other people, everyone joins with a different level of experience"</em>. Whilst I agree that you really can't waste any of your valueable time dwelling on this whilst on the course, the bottom line is that it's human nature to compare yourself to your peers and feel a twang of frustration when it takes you a little longer to solve the problem in a certain homework than your neighbour. The gaps between individuals abilities is especially prevalent within the first month as front-end ground is covered that some have already taught 
