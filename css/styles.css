@@ -21,6 +21,7 @@ h1, h2, h3, h4 {
 .sidebar {
   padding-top: 20px;
   position: fixed;
+  width: 200px;
 }
 
 .logo {
@@ -68,9 +69,23 @@ a {
 
 span.fa {
   font-size: 1.5em;
-  padding-right: 5px;
+  padding-right: 10px;
   color: #393939;
 }
+
+span.fa:hover {
+  color: #6f6f6f;
+  text-decoration-line: none;
+}
+
+span.nav-text:hover {
+  text-decoration-style: none;
+  color: #71d9ff;
+}
+
+/*.nav-inner a:hover {
+
+}*/
 
 #profile-box {
 text-align: center;
