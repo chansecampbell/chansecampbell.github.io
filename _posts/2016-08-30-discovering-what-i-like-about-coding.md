@@ -6,7 +6,7 @@ title: Discovering what I like about coding
 <h1 class="header-name">{{ page.title }}</h1>
 <h4 class="header-name">Written by Chanse Campbell on {{ page.date | date: '%B %d, %Y' }}</h4>
 
-<p>Over the past 9 weeks I've been working as one of the <strong>Teaching Assistants</strong> at <strong>General Assembly</strong> for WDI21. Off the back of being a student here at GA, I was both anxious and excited to be continuing my journey with a company that I was already familiar with and as expected I've definitely learned a hell of a lot in the process and it's been extremely rewarding to be a part of a the experience for a new group of coders that are just a few months behind me.</p>
+<p>Over the past 9 weeks I've been working as one of the <strong>Teaching Assistants</strong> at <strong>General Assembly</strong> for WDI21. Off the back of being a student here at GA I was both anxious and excited to be continuing my journey with a company that I was already familiar with. As expected I've definitely learned a hell of a lot in the process and it's been extremely rewarding to be a part of the experience with a new group of coders that are just a few months behind where I am.</p>
 
 <p>One of the most interesting aspects of being on the course again has been diving back into the content whilst being required to also now provide a support role to the new students. I previously found during my time on the course that one of the biggest challenges with a bootcamp like this is simply the sheer <strong>speed</strong> in which the course material moves on a daily and weekly basis.</p>
 
