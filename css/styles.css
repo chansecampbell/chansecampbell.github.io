@@ -332,7 +332,7 @@ animation-delay: 0.5s;
 
   span.fa {
     font-size: 2em;
-    padding-right: 5px;
+    padding-right: 6px;
   }
 
   .logo img {
@@ -343,7 +343,7 @@ animation-delay: 0.5s;
 
 }
 
-@media screen and (max-width: 33.125rem) {
+@media screen and (max-width: 36.125rem) {
 
   #chanse-profile {
   
