@@ -17,17 +17,6 @@ h1 {
   font-size: 2em;
 }
 
-strong {
-  color: #71d9ff;
-/*  background-color: #393939;
-*/  font-weight: normal;
-}
-
-/*em {
-  color: #8d7edc;
-  font-style: normal;
-}*/
-
 .header-name {
   text-align: center;
   max-width: 700px;
